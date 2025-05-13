@@ -1,7 +1,7 @@
 package services
 
 import (
-	"KachProxyAPI/models"
+	"github.com/tomatoCoderq/KachProxyAPI/models"
 	"fmt"
 	_ "fmt"
 	"log"
@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"KachProxyAPI/internal"
+	"github.com/tomatoCoderq/KachProxyAPI/internal"
 
 	"github.com/gocolly/colly"
 )

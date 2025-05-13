@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"KachProxyAPI/services"
+	"github.com/tomatoCoderq/KachProxyAPI/services"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

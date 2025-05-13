@@ -2,7 +2,7 @@ package services
 
 import (
 	// "KachProxyAPI/pkg/models"
-	"KachProxyAPI/models"
+	"github.com/tomatoCoderq/KachProxyAPI/models"
 	"fmt"
 	"log"
 	"net/url"

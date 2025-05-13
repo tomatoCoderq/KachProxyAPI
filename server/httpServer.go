@@ -7,9 +7,9 @@ import (
 	"github.com/gocolly/colly"
 	"github.com/spf13/viper"
 
-	"KachProxyAPI/controllers"
+	"github.com/tomatoCoderq/KachProxyAPI/controllers"
 	// "KachProxyAPI/pkg/models"
-	"KachProxyAPI/services"
+	"github.com/tomatoCoderq/KachProxyAPI/services"
 )
 
 

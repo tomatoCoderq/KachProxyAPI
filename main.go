@@ -1,8 +1,8 @@
 package main
 
 import (
-	"KachProxyAPI/config"
-	"KachProxyAPI/server"
+	"github.com/tomatoCoderq/KachProxyAPI/config"
+	"github.com/tomatoCoderq/KachProxyAPI/server"
 	"log"
 )
 
